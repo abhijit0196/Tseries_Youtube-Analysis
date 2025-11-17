@@ -106,4 +106,4 @@ The dataset (`new_music_data.csv`) contains the following columns:
 ---
 
 ## Author
-- Data Science & ML Project by [Your Name]
+- Data Science & ML Project by Abhijit Wabale
